@@ -16,6 +16,13 @@ g. Binary Search adalah metode pencarian yang lebih efisien.
 
 h. Binary Search membutuhkan lebih sedikit langkah dibandingkan dengan Simple Search.
 
+
+
+
+
+
+
+
 B. Ringkasan Algoritma Sturktur Data RunningTime
 
 a.) Running Time adalah waktu yang dibutuhkan oleh suatu algoritma untuk menyelesaikan tugasnya.
