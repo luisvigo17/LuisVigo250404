@@ -28,5 +28,6 @@ d.) Contoh perbandingan algoritma dengan menggunakan metode pencarian sederhana 
 
 e.) Penjelasan mengenai kompleksitas waktu linear dan logaritmik.
 
-Daftar dan penjelasan mengenai beberapa jenis Big O Notation yang umum digunakan.
-Penutup dan penekanan bahwa pemahaman tentang running time dan Big O Notation penting dalam pemilihan algoritma yang efisien.
+f.) Daftar dan penjelasan mengenai beberapa jenis Big O Notation yang umum digunakan.
+
+g.) Penutup dan penekanan bahwa pemahaman tentang running time dan Big O Notation penting dalam pemilihan algoritma yang efisien.
